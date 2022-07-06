@@ -19,10 +19,9 @@ pip install tensorflow
 pip install tkinter
 ```
 
-##Restrictions for this model::
+## Restrictions for this model:
 
-1)At one time only one person should be allowed to check its mood because this system works on one face at a time.
-it can create problem if more than one face is being captured.
+1)At one time only one person should be allowed to check its mood because this system works on one face at a time.it can create problem if more than one face is being captured.
 
 2)The person should be in good lightning condition so that its face should be visible.
 
